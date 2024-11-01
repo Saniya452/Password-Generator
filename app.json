@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "passGen",
-    "slug": "passGen",
+    "name": "PassForge",
+    "slug": "passForge-slug",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/passIcon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
